@@ -1,0 +1,22 @@
+{
+  "name": "com.arisnova.dependencytest",
+  "displayName": "Dependency Test",
+  "description": "Dependency Test Package",
+  "version": "0.0.2",
+  "unity": "2020.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/tony.chacin/arisnova-dependency-test.git"
+  },
+  "dependencies": {
+     "com.arisnova.cameracontrollers": "git+https://tony:glpat-wby42HtSnAZoD7AWs-JP@gitlab.com/tony.chacin/arisnova-camera-package.git#master"
+},
+  "author": {
+    "name": "Arisnova"
+  },
+  "keywords": [
+    "Dependency",
+    "Core"
+  ]
+}
